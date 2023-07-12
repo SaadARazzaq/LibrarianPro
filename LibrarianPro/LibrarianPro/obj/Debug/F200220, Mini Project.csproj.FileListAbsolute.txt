@@ -1,0 +1,27 @@
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\bin\Debug\F200220, Mini Project.exe.config
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\bin\Debug\F200220, Mini Project.exe
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\bin\Debug\F200220, Mini Project.pdb
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.csproj.AssemblyReference.cache
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.Properties.Resources.resources
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.csproj.GenerateResource.cache
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.csproj.CoreCompileInputs.cache
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.exe
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.pdb
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.Form1.resources
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.insert_Form.resources
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.read_Form.resources
+C:\Users\mubas\source\repos\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.delete_Form.resources
+D:\F200220, Mini Project\F200220, Mini Project\bin\Debug\F200220, Mini Project.exe.config
+D:\F200220, Mini Project\F200220, Mini Project\bin\Debug\F200220, Mini Project.exe
+D:\F200220, Mini Project\F200220, Mini Project\bin\Debug\F200220, Mini Project.pdb
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.csproj.AssemblyReference.cache
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.delete_Form.resources
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.Form1.resources
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.insert_Form.resources
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.Properties.Resources.resources
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.read_Form.resources
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.csproj.GenerateResource.cache
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.csproj.CoreCompileInputs.cache
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.exe
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220, Mini Project.pdb
+D:\F200220, Mini Project\F200220, Mini Project\obj\Debug\F200220__Mini_Project.Update_Form.resources
